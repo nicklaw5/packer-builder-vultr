@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/dradtke/packer-builder-vultr/vultr"
+	"github.com/nicklaw5/packer-builder-vultr/vultr"
 	"github.com/hashicorp/packer/packer/plugin"
 )
 
